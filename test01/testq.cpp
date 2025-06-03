@@ -8,7 +8,7 @@ void newFunction();
 
 int main() {
 
-    vector<int> numbers = {5, 3, 8, 6, 2};
+    vector<int> numbers = {5, 80, 8, 6, 2};
     sort(numbers.begin(), numbers.end());
     
     cout << "Sorted numbers: ";
