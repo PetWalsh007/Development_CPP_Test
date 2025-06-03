@@ -1,0 +1,24 @@
+# Ignore Windows executables
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore build folders
+/build/
+bin/
+out/
+
+# VSCode files
+.vscode/
+
+# CMake output
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup / temp files
+*.log
+*.tmp
